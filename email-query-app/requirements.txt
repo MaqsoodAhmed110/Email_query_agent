@@ -1,0 +1,8 @@
+google-auth-oauthlib==1.0.0
+google-api-python-client==2.88.0
+langchain==0.1.0
+groq>=0.4.1
+streamlit>=1.28.0
+chromadb==0.4.0
+python-dotenv==1.0.0
+langchain-groq==0.1.0
