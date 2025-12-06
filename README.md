@@ -51,6 +51,8 @@ Simple app to fetch a user's Gmail messages for a selected date, index them into
 ## Running the app
 First Run:
 python setup_gmail_auth.py
+
+
 Run Streamlit (default port 8501):
 streamlit run src/app.py
 
